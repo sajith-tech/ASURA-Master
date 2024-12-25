@@ -12,7 +12,7 @@
 ## Termux installation
 ```
 
-1. git clone https://github.com/princekrvert/Asura.git
+1. git clone https://github.com/sajith-tech/ASURA-Master.git
 2. cd Asura
 3. chmod +x *
 4. ./install.sh 
